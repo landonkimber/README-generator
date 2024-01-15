@@ -48,4 +48,3 @@ SOFTWARE.
 Created by Landon Kimber
 Email: landonkimber33@gmail.com
 Github Profile: https://github.com/landonkimber
-# README-generator
